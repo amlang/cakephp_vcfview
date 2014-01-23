@@ -179,8 +179,3 @@ VcfView::**end**( *void* );
    > contains all available vCard elements
 
 [Top](#vcf--view-v100-for-cakephp-23)
-
-<a name="license"/>
-##License
-
-[Top](#vcf--view-v100-for-cakephp-23)
