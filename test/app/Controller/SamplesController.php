@@ -10,22 +10,22 @@ class SamplesController extends AppController {
 	public function test1() {
 		$personal = array(
 			'name' => array(
-				'givenName' => 'Alexander',
-				'middleName' => 'Magnus',
-				'familyName' => 'Lang'
+				'givenName' => 'John',
+				'middleName' => 'Middel',
+				'familyName' => 'Doe'
 			),
 			'gender'=>'M',
-			'birthday'=> '1987-07-30',
+			'birthday'=> '1970-01-01',
 			'email' => 'asd@asd.com',
 			'telephone' => array(
 				'number' => '0126/123456',
 				'type' => array('work', 'voice', 'asd', 'qwe')
 			),
 			'address' => array(
-				'streetAddress' => '20 Lincoln Center',
+				'streetAddress' => 'SomeStreet',
 				'addressCountry' => 'USA',
-				'addressLocality' => 'New York',
-				'addressRegion' => 'NY',
+				'addressLocality' => 'Somestate',
+				'addressRegion' => 'SS',
 				'postalCode' => '10023'
 			),
 		);
