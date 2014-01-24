@@ -6,7 +6,7 @@ A view class that is used for vCard (.vcf) responses.
 [Installation](#install)  
 [Usage](#usage)  
 [VcfView API](#api)  
-[License](#license) 
+[Contributing](https://github.com/amlang/cakephp_vcfview/blob/master/CONTRIBUTING.md) 
 
 <a name="install"/>
 ## Installation
